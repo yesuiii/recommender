@@ -1,10 +1,6 @@
+fastai==2.7.12
+fastcore==1.5.29
 streamlit>=1.31.0
-fastai>=2.7.0
-fastcore>=1.5.0
-torch>=2.2.0
+torch>=2.2.0,<2.3.0
 torchvision>=0.17.0
 torchaudio>=2.2.0
-markdown-it-py>=3.0.0
-mdurl>=0.1.2
-pygments>=2.19.0
-rich>=14.0.0
