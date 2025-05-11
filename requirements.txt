@@ -1,3 +1,5 @@
 streamlit
 torch
-fastai<2.8
+fastai==2.7.12
+fastcore==1.5.29
+
