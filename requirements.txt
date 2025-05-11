@@ -1,4 +1,3 @@
 streamlit
 torch
-fastai==2.7.11
-fasttransform
+fastai<2.8
